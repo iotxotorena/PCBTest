@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "C"
+    },
+    {
+      "id": 1,
+      "name": "IC1"
+    },
+    {
+      "id": 2,
+      "name": "IC2"
+    },
+    {
+      "id": 3,
+      "name": "LED"
+    },
+    {
+      "id": 4,
+      "name": "MISSING"
+    },
+    {
+      "id": 5,
+      "name": "R"
+    },
+    {
+      "id": 6,
+      "name": "RP"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
